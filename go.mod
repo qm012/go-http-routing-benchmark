@@ -61,4 +61,3 @@ require (
 )
 
 replace github.com/gin-gonic/gin => github.com/qm012/gin vtest32
-
