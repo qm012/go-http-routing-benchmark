@@ -60,4 +60,4 @@ require (
 	gopkg.in/macaron.v1 v1.3.6
 )
 
-replace github.com/gin-gonic/gin => github.com/qm012/gin vtest30
+replace github.com/gin-gonic/gin => github.com/qm012/gin vtest31
