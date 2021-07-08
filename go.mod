@@ -61,4 +61,4 @@ require (
 )
 
 
-replace github.com/gin-gonic/gin => github.com/qm012/gin v1.8-beta.18
+replace github.com/gin-gonic/gin => github.com/qm012/gin vtest38
