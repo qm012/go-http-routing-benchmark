@@ -64,8 +64,8 @@ github.com/fsnotify/fsnotify v1.4.9 h1:hsms1Qyu0jgnwNXIxa+/V/PDsU6CfLf6CNO8H7IWo
 github.com/fsnotify/fsnotify v1.4.9/go.mod h1:znqG4EE+3YCdAaPaxE2ZRY/06pZUdp0tY4IgpuI1SZQ=
 github.com/gin-contrib/sse v0.1.0 h1:Y/yl/+YNO8GZSjAhjMsSuLt29uWRFHdHYUb5lYOV9qE=
 github.com/gin-contrib/sse v0.1.0/go.mod h1:RHrZQHXnP2xjPF+u1gW/2HnVO7nvIa9PG3Gm+fLHvGI=
-github.com/qm012/gin v1.8-beta.master.2 h1:/1NSUIbriTL/d9LckAxBtweZT2zIUFDiQy6sPqx7i5g=
-github.com/qm012/gin v1.8-beta.master.2/go.mod h1:75u5sXoLsGZoRN5Sgbi1eraJ4GU3++wFwWzhwvtwp4M=
+github.com/qm012/gin v1.8-beta.19 h1:/1NSUIbriTL/d9LckAxBtweZT2zIUFDiQy6sPqx7i5g=
+github.com/qm012/gin v1.8-beta.19/go.mod h1:75u5sXoLsGZoRN5Sgbi1eraJ4GU3++wFwWzhwvtwp4M=
 github.com/go-chi/chi v4.1.1+incompatible h1:MmTgB0R8Bt/jccxp+t6S/1VGIKdJw5J74CK/c9tTfA4=
 github.com/go-chi/chi v4.1.1+incompatible/go.mod h1:eB3wogJHnLi3x/kFX2A+IbTBlXxmMeXJVKy9tTv1XzQ=
 github.com/go-macaron/inject v0.0.0-20160627170012-d8a0b8677191 h1:NjHlg70DuOkcAMqgt0+XA+NHwtu66MkTVVgR4fFWbcI=
